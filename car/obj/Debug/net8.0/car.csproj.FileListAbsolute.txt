@@ -1,0 +1,14 @@
+C:\Users\Azerty\Desktop\tg_bot\car\car\bin\Debug\net8.0\car.exe
+C:\Users\Azerty\Desktop\tg_bot\car\car\bin\Debug\net8.0\car.deps.json
+C:\Users\Azerty\Desktop\tg_bot\car\car\bin\Debug\net8.0\car.runtimeconfig.json
+C:\Users\Azerty\Desktop\tg_bot\car\car\bin\Debug\net8.0\car.dll
+C:\Users\Azerty\Desktop\tg_bot\car\car\bin\Debug\net8.0\car.pdb
+C:\Users\Azerty\Desktop\tg_bot\car\car\obj\Debug\net8.0\car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azerty\Desktop\tg_bot\car\car\obj\Debug\net8.0\car.AssemblyInfoInputs.cache
+C:\Users\Azerty\Desktop\tg_bot\car\car\obj\Debug\net8.0\car.AssemblyInfo.cs
+C:\Users\Azerty\Desktop\tg_bot\car\car\obj\Debug\net8.0\car.csproj.CoreCompileInputs.cache
+C:\Users\Azerty\Desktop\tg_bot\car\car\obj\Debug\net8.0\car.dll
+C:\Users\Azerty\Desktop\tg_bot\car\car\obj\Debug\net8.0\refint\car.dll
+C:\Users\Azerty\Desktop\tg_bot\car\car\obj\Debug\net8.0\car.pdb
+C:\Users\Azerty\Desktop\tg_bot\car\car\obj\Debug\net8.0\car.genruntimeconfig.cache
+C:\Users\Azerty\Desktop\tg_bot\car\car\obj\Debug\net8.0\ref\car.dll
